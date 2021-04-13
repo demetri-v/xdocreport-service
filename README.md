@@ -5,7 +5,7 @@ XDocReport service is a REST service for report making based on the XDocReport l
 
 The service allows to:
 *	replace macroses in your document to specified values
-*	assing sql query for each macros to put value from DB
+*	assign sql query for each macros to put value from DB
 *	generate dynamic tables 
 *	convert output file to docx or pdf
 
