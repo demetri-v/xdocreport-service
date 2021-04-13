@@ -7,5 +7,6 @@ The service allows to:
 *	assing sql query for each macros to put value from DB
 *	generate dynamic tables 
 *	convert output file to docx or pdf
+
 Please read [Getting Started](https://github.com/demetri-v/xdocreport-service/wiki/Getting-Started) to get to know how to use it.
 For more please check the XDocReport library documentation  https://github.com/opensagres/xdocreport/wiki/GettingStarted
